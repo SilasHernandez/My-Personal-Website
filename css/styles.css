@@ -1,4 +1,3 @@
-
 body {
   background-color: #1597bb;
 }
@@ -6,17 +5,35 @@ body {
 hr {
   border-style: none;
   border-top-style: dotted;
-  width: 10%;
-  border-color: grey;
-  border-width: 5px;
+  width: 3%;
+  border-width: 10px;
+  border-color: #8fd6e1;
+}
 
+img {
+  height: 200px;
 }
-img{
-height: 200px;
+
+h1 {
+  color: #7b113a;
 }
-h1{
-color: #66bfbf;
+
+h3 {
+  color: #66bfbf;
 }
-h3{
-color: #66bfbf;
+
+p {
+  color: #150e56;
+}
+
+.top-line {
+  border-style: none;
+  border-top-style: dotted;
+  width: 3%;
+  border-width: 10px;
+  border-color: #7b113a;
+}
+
+.Bio {
+  color: #9ddfd3;
 }
