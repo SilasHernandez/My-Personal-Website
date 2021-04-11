@@ -1,5 +1,6 @@
 body {
   background-color: #1597bb;
+  margin: 0px;
 }
 
 hr {
@@ -34,6 +35,38 @@ p {
   border-color: #7b113a;
 }
 
-.Bio {
-  color: #9ddfd3;
+.bio{
+  background-color: #150e56;
+  width: auto;
+  height: 100px;
+
+  display: block;
+}
+
+
+.Profile {
+  border-radius: 100%;
+}
+
+.header {
+  background-color: #8fd6e1;
+}
+
+.middle {
+  margin: 0px;
+
+}
+
+.footer {
+background-color: #8fd6e1;
+width: auto;
+height: 70px;
+
+
+}
+.bio-text{
+  margin-top: 0px;
+  margin-right: 8px;
+  position: absolute;
+  left: 30px;
 }
